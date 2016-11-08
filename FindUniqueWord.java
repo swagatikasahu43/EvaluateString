@@ -23,7 +23,7 @@ public class FindUniqueWord {
 			}
 		}
 		
-//		/*Print the Unique word list*/
+//**********		/*Print the Unique word list*/
 		System.out.println("========  Unique List =============");
 		for(int i = 0; i< uniqueWords.length&& i<index; i++)
 		{

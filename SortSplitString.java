@@ -16,6 +16,8 @@ public class SortSplitString {
 		   } 		  
 		  }
 		 }
+		
+//              Code to print in same program    		
 //		System.out.println("========= Sorted List ============");/*Print the sorted list*/
 //		for(int i = 0; i< words.length; i++)
 //		{
